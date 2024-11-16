@@ -25,9 +25,9 @@ This project successfully uncovered valuable insights about restaurant trends, p
 
 ## Snapshots of Dashboard
 
-![Tableau dashboard 1](https://github.com/user-attachments/assets/3e8a0bb6-e742-4d4b-8adb-7cae542c532c)
+![Tableau dashboard 1](https://github.com/user-attachments/assets/fdafd4ec-f57f-45b7-b474-721a552439de)
 
-![Tableau dashboard 2](https://github.com/user-attachments/assets/fdb5f242-33a3-4d3a-8c42-e0007d6cabda)
+![Tableau dashboard 2](https://github.com/user-attachments/assets/8b0d1423-08e1-47df-9800-9772de46ef05)
 
 
 
